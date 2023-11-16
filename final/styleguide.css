@@ -1,0 +1,81 @@
+.w-100{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
+@media screen and (max-width: 600px) {
+    .w-100{
+        padding: 5px;
+    }
+} 
+
+.py-3{
+   
+    width: 100%;
+
+}
+
+
+form {
+    max-width: 100%;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 0px;
+    border-radius: 5px;
+   
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+form div label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+form div input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+form div.forgot-password {
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+form div.forgot-password label {
+    flex-grow: 1;
+    margin-right: 8px;
+}
+
+form div.submit-btn {
+    text-align: left;
+}
+
+form div.submit-btn input {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+form div input:focus {
+    border: 1px solid #007bff; 
+}
+
+form div.new {
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+form div.new.lt{
+    color: #007bff;
+    margin-left: 5px;
+}

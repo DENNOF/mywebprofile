@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800;800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="styleguide.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="overall">
+        <div class="row">
+            <div class="col-lg-5">
+            
+                <svg viewBox="0 0 123.7 23.3" xmlns="http://www.w3.org/2000/svg" fill="#333" width="120">
+                    <path d="M91.3 1.7V12c0 3.6 1.5 5 4.1 5s4.1-1.5 4.1-5V1.7h4.3v10.4c0 5.5-3.1 8.5-8.4 8.5-5.2 0-8.4-3-8.4-8.5V1.7zm-59.8 0l8.3 18.6h-4.5l-1.7-4H25l-1.7 4h-4.4l8.3-18.6zm49.7 0v3.5h-9.7v4.9H80v3.5h-8.5v6.8h-4.3V1.7zm32.8 0v15.1h9.7v3.5h-14V1.7zM8.1 1.7c4.9 0 8.1 2.5 8.1 6.8 0 4.1-3.1 6.7-8.1 6.7H4.3v5.2H0V1.7zm47 9.9l6.3 8.7h-4.1c-.6 0-1.2-.2-1.6-.7l-.1-.1-2.3-3.2c-.5-.8-.5-1.8 0-2.6l.1-.2zM29.3 6l-2.9 7.1h5.9zM7.9 5.2H4.3v6.5h3.5c2.7 0 4-1.2 4-3.2s-1.3-3.3-3.9-3.3zm39-3.5c.7 0 1.2.2 1.6.7l.1.1 1.2 1.7c.5.7.5 1.7.1 2.4l-.1.1-1.7 2.4-5.4-7.5z"></path>
+                    <path d="M63.1 0L41.5 23.2c-.2.3-.7-.1-.4-.4L56.7.8c.4-.5 1-.8 1.7-.8z" fill="#00a5ef"></path>
+                </svg>
+                
+                <div class="loginwithpaxful">
+                    <h2>Log In With Paxful</h2>
+        
+                </div>
+                <div class="frame">
+                    <div class="div">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none">
+                            <path d="M7.00004 0.333252C5.6815 0.333252 4.39257 0.724245 3.29624 1.45679C2.19991 2.18933 1.34543 3.23052 0.840847 4.4487C0.336263 5.66687 0.20424 7.00731 0.461475 8.30052C0.71871 9.59373 1.35365 10.7816 2.286 11.714C3.21835 12.6463 4.40623 13.2813 5.69944 13.5385C6.99265 13.7957 8.33309 13.6637 9.55127 13.1591C10.7694 12.6545 11.8106 11.8 12.5432 10.7037C13.2757 9.60739 13.6667 8.31846 13.6667 6.99992C13.6667 6.12444 13.4943 5.25753 13.1592 4.4487C12.8242 3.63986 12.3331 2.90493 11.7141 2.28587C11.095 1.66682 10.3601 1.17575 9.55127 0.840722C8.74243 0.50569 7.87552 0.333252 7.00004 0.333252ZM7.00004 12.3333C5.94521 12.3333 4.91406 12.0205 4.037 11.4344C3.15994 10.8484 2.47635 10.0154 2.07269 9.0409C1.66902 8.06636 1.5634 6.994 1.76919 5.95944C1.97498 4.92487 2.48293 3.97456 3.22881 3.22868C3.97469 2.4828 4.925 1.97485 5.95956 1.76906C6.99413 1.56328 8.06648 1.66889 9.04102 2.07256C10.0156 2.47623 10.8485 3.15982 11.4345 4.03688C12.0206 4.91394 12.3334 5.94508 12.3334 6.99992C12.3334 8.41441 11.7715 9.77096 10.7713 10.7712C9.77109 11.7713 8.41453 12.3333 7.00004 12.3333Z" fill="#479EEE"/>
+                            <path d="M7.00004 10.3333C7.36823 10.3333 7.66671 10.0349 7.66671 9.66667C7.66671 9.29848 7.36823 9 7.00004 9C6.63185 9 6.33337 9.29848 6.33337 9.66667C6.33337 10.0349 6.63185 10.3333 7.00004 10.3333Z" fill="#479EEE"/>
+                            <path d="M7.00004 3.66663C6.82323 3.66663 6.65366 3.73686 6.52864 3.86189C6.40361 3.98691 6.33337 4.15648 6.33337 4.33329V7.66663C6.33337 7.84344 6.40361 8.01301 6.52864 8.13803C6.65366 8.26305 6.82323 8.33329 7.00004 8.33329C7.17685 8.33329 7.34642 8.26305 7.47145 8.13803C7.59647 8.01301 7.66671 7.84344 7.66671 7.66663V4.33329C7.66671 4.15648 7.59647 3.98691 7.47145 3.86189C7.34642 3.73686 7.17685 3.66663 7.00004 3.66663Z" fill="#479EEE"/>
+                            </svg>
+                      <p class="IMPORTANT-please">
+                        IMPORTANT! Please check that you are visiting<br />https://accounts.paxful.com/
+                      </p>
+                    </div>
+                    <div class="link-wrapper"><img class="link" src="link.webp" /></div>
+                  </div>
+                
+                     
+        
+        
+                    <form action="/action_page.php">
+                        <div> 
+                            <label for="fname">Your Phone or Email</label>
+                            <input type="text" id="name" name="name">
+                        </div>
+                        <div class="forgot-password">
+                            <div><label for="password">Your Password</label></div>
+                            <div><label for="Forgot">Forgot password?</label></div>
+                        </div>
+                        <div><input type="password" id="password" name="password"></div>
+                        <div class="submit-btn">
+                            <input type="submit" value="Submit">
+                        </div>
+                        <hr>
+                        <div class="new">
+                            <label for="paxful">New on Paxful?</label><label class="lt" for="Account">Create an Account</label>
+                        </div>
+                    </form>
+                </div>
+        
+        
+                </div>
+        <div class="col-lg-7 d-none d-md-block">
+
+        </div>
+    </div>
+    </div>
+</body>
+</html>
